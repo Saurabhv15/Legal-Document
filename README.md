@@ -1,4 +1,4 @@
-# Legal-Document# Legal Document Processing System
+# Legal Document Processing System
 
 A Python-based NLP system for analyzing legal documents, extracting key clauses, and identifying important legal terms. This system uses state-of-the-art NLP techniques to process and analyze legal documents efficiently.
 
@@ -14,8 +14,8 @@ A Python-based NLP system for analyzing legal documents, extracting key clauses,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/legal-document-processor.git
-cd legal-document-processor
+git clone https://github.com/Saurabhv15/Legal-Document.git
+cd Legal-Document
 ```
 
 2. Create a virtual environment (recommended):
@@ -138,8 +138,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - Saurabh Verma  saurabhvrm959@gmail.com
-
+Saurabh Verma - [GitHub Profile](https://github.com/Saurabhv15)
+Project Link: https://github.com/Saurabhv15/Legal-Document
 
 ## To-Do
 
